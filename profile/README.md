@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning flutter.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -11,12 +11,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SakuraCake&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SakuraCake&show_icons=true&locale=cn&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SakuraCake&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=SakuraCake&locale=cn&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=SakuraCake&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakuraCake&locale=cn&show_icons=true" />
 </picture>
