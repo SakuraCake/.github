@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on [PiliOtto](https://github.com/CyaniAgent/piliotto)
 - 🌱 I'm currently learning Flutter
-- 💬 I Ask me about Flutter, Dart
+- 💬 Ask me about Flutter, Dart
 - 📫 How to reach me: [sorange.top](https://sorange.top)
 - 🏠 Location: Jiangsu Province, China
 - 😄 Pronouns: He/Him
@@ -12,15 +12,21 @@
 
 ### 关于我 / About Me
 
-> 桃花三月醉心也，栗原芳香雪舞飞！
+<p align="center">
+  <i>桃花三月醉心也，栗原芳香雪舞飞！</i>
+</p>
 
-- 🔗 [GitHub](https://github.com/SakuraCake) | [Bangumi](https://bangumi.tv/user/sakuracake) | [Bilibili](https://space.bilibili.com/1750469453)
+<p align="center">
+  <a href="https://github.com/SakuraCake">GitHub</a> • 
+  <a href="https://bangumi.tv/user/sakuracake">Bangumi</a> • 
+  <a href="https://space.bilibili.com/1750469453">Bilibili</a>
+</p>
 
 ---
 
-### ⚠️ 声明
-
-> 累了QWQ，不应该同时维护多个项目QWQ
+<p align="center">
+  <b>⚠️ 累了QWQ，不应该同时维护多个项目QWQ</b>
+</p>
 
 ---
 
