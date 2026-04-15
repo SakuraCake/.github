@@ -14,7 +14,6 @@
 
 > 桃花三月醉心也，栗原芳香雪舞飞！
 
-- 🐱 喵喵喵~
 - 🔗 [GitHub](https://github.com/SakuraCake) | [Bangumi](https://bangumi.tv/user/sakuracake) | [Bilibili](https://space.bilibili.com/1750469453)
 
 ---
