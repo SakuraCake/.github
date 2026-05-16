@@ -19,7 +19,8 @@
 <p align="center">
   <a href="https://github.com/SakuraCake">GitHub</a> • 
   <a href="https://bangumi.tv/user/sakuracake">Bangumi</a> • 
-  <a href="https://space.bilibili.com/1750469453">Bilibili</a>
+  <a href="https://space.bilibili.com/1750469453">Bilibili</a> • 
+  <a href="https://ifdian.net/a/sakura_cake">爱发电</a>
 </p>
 
 ---
