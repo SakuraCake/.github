@@ -25,12 +25,6 @@
 
 ---
 
-<p align="center">
-  <b>⚠️ 累了QWQ，不应该同时维护多个项目QWQ</b>
-</p>
-
----
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SakuraCake&show_icons=true&locale=cn&theme=dark"
